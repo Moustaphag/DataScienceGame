@@ -1,2 +1,2 @@
 # DataScienceGame
-This reposotory contain the script that we implemented for the second edition of the Data-Science Game
+This reposotory contain the scripts that we implemented for the second edition of the Data-Science Game
